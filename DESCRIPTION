@@ -1,0 +1,15 @@
+Package: GenomicsHelper
+Title: Helper functions for Genomics
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Oliver",
+           family = "Dietrich",
+           role = c("aut", "cre"),
+           email = "Dietrich.OliverDominik@gmail.com",
+           comment = c(ORCID = "0000-0002-4776-8960"))
+Description: Helper functions for Genomcis.
+License: GPL-2.0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
