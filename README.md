@@ -1,2 +1,2 @@
 # Gaudi
-R toolkit for phage genomics
+R toolkit for microbial genomics
