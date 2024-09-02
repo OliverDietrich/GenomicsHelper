@@ -1,2 +1,2 @@
-# GenomicsHelper
-Helper functions for genomics data
+# Gaudi
+R toolkit for phage genomics
